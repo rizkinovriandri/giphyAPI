@@ -1,0 +1,21 @@
+#gifContainer{
+    margin-top: 30px;
+    width: 60%;
+    height: 400px;
+    margin: 0 auto;
+    /* background-color: dimgrey; */
+    
+}
+
+#gifItem{
+    width: 100%;
+    height: 100%;
+}
+
+.card-body{
+    padding: 0!important;
+}
+
+.card{
+    margin-top: 10px;
+}
